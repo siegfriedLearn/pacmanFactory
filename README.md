@@ -45,7 +45,7 @@
 
 ## :dart: About ##
 
-Este proyecto construido con HTMLS, CSS y JavaScipt crea una fábrica de Pacman. Al presionar el botón Add Pacman, se generan un nuevo pacman en una posición aleatoria sobre la página. Luego de esto, al presionar el botón Start Game, estas figuras recorren el lienzo rebotando en los límites de la página de un lado a otro con distinas velocidades.
+Este proyecto construido con HTML y JavaScipt crea una fábrica de Pacman. Al presionar el botón Add Pacman, se generan un nuevo pacman en una posición aleatoria sobre la página. Luego de esto, al presionar el botón Start Game, estas figuras recorren el lienzo rebotando en los límites de la página de un lado a otro con distinas velocidades.
 
 
 ## :rocket: Technologies ##
@@ -53,7 +53,6 @@ Este proyecto construido con HTMLS, CSS y JavaScipt crea una fábrica de Pacman.
 The following tools were used in this project:
 
 - [HTML]
-- [CSS]
 - [JavaScript]
 
 ## :white_check_mark: Requirements ##
